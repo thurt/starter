@@ -1,10 +1,8 @@
 ---
 layout: blog
 category: blog
-published: false
+published: true
 title: The best post in de world
-splash: ''
-tags: ''
 ---
 ## A New Post
 
